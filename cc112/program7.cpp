@@ -3,7 +3,7 @@ using namespace std;
 
 int main() { 
     float distance; 
-    float flare; 
+    float fare; 
 
     cout << "Please enter the total distance of the ride: "; 
     cin >> distance;
